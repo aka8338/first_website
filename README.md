@@ -1,2 +1,2 @@
 # first_website
-Here i was created my first web site using basics of HTML and CSS.
+In this project i created my first web site using only basics of HTML and CSS.
